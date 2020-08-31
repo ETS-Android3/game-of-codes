@@ -2,7 +2,7 @@
 ## A quiz game for programmers based on the theme of  game of thrones
 
 # Screenshots
-<img src="https://github.com/shikhar8434/game-of-codes/blob/master/GOC%20screenshots/login.jpeg" width="280"/> <img src="https://github.com/shikhar8434/game-of-codes/blob/master/GOC%20screenshots/c%2B%2B.jpeg" width="280"/>  <img src="https://github.com/shikhar8434/game-of-codes/blob/master/GOC%20screenshots/q1.jpeg" width="280"/> 
+<img src="https://github.com/shikhar8434/game-of-codes/blob/master/GOC%20screenshots/login.jpeg" width="280"/> <img src="https://github.com/shikhar8434/game-of-codes/blob/master/GOC%20screenshots/c%2B%2B.jpeg" width="280"/>  <img src="https://github.com/shikhar8434/game-of-codes/blob/master/GOC%20screenshots/q1.jpeg" width="280"/>  <img src="https://github.com/shikhar8434/game-of-codes/blob/master/GOC%20screenshots/goc_main.jpeg" width="280"/> 
 
 
 # FEATURES
