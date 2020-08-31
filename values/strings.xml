@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">GameOfCodes</string>
+    <string name="py_description">
+
+       PYTHON IS AN EFFICIENT, MULTI-PURPOSE AND POWERFUL LANGUAGE. GEAR UP WITH THIS MIGHTY
+        SWORD TO CONQUER WESTROS
+
+
+    </string>
+    <string name="js_description">
+
+       JAVASCRIPT IS AN EASY, MULTI-PURPOSE AND FAST LANGUAGE. GEAR UP WITH THIS POWERFUL
+        SWORD TO PROTECT THE CROWN
+
+
+    </string>
+
+    <string name="cpp_description">
+
+       C++ IS AN EASY, MULTI-PURPOSE AND FAST LANGUAGE. GEAR UP WITH THIS AMAZING
+        SWORD TO PROTECT THE NORTH
+
+    </string>
+    <string name="java_description">
+
+       JAVA IS AN OBJECT-ORIENTED, EASY AND FAST LANGUAGE. GEAR UP WITH THIS STRONG
+        SWORD TO PROTECT THE CROWN.
+
+    </string>
+
+</resources>
